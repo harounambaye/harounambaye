@@ -15,7 +15,7 @@
 > harouna@ai-lab:~$ whoami
 
   IDENTITÉ    : Harouna MBAYE
-  RÔLE        : Étudiant-chercheur en Business Intelligence & IA
+  RÔLE        : Étudiant en Business Intelligence & IA
   STATUT      : En formation active | Disponible pour opportunités
   LOCALISATION: Dakar, Sénégal
 
