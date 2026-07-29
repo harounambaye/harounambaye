@@ -156,7 +156,6 @@
 
 </table>
 
-<sub>💡 Envoie-moi les chiffres réels (volumes, gains de temps, nb d'utilisateurs...) et je les intègre directement dans ce tableau — c'est ce qui convainc le plus un recruteur.</sub>
 
 <br>
 
@@ -171,7 +170,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harounambaye&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
-<sub>ℹ️ Si "Activité GitHub" affiche une erreur : c'est un service gratuit externe (Vercel) parfois saturé par le trafic mondial — recharge la page dans quelques minutes, ça revient tout seul.</sub>
 
 <br>
 
