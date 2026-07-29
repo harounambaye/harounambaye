@@ -127,31 +127,31 @@
 <tr>
 <td><a href="https://esenguide-harouna.vercel.app/"><b>eSenGuide</b></a><br><sub>Assistant administratif intelligent</sub></td>
 <td>React · FastAPI · IA (Groq)</td>
-<td>Agent IA guidant les citoyens sénégalais dans leurs démarches (CNI, casier judiciaire…) — <i>[à compléter : ex. nb de démarches couvertes, temps de réponse]</i></td>
+<td>Agent IA guidant les citoyens sénégalais dans leurs démarches (CNI, casier judiciaire…)</td>
 </tr>
 
 <tr>
 <td><b>GED ArchiveDocPro</b> <sub>(à venir)</sub><br><sub>Gestion Électronique de Documents</sub></td>
 <td>Web · Cabinet virtuel · Communication NAS</td>
-<td>Cabinet virtuel interactif avec hiérarchie de documents et communication directe avec un NAS pour le stockage — <i>[à compléter : ex. volume de documents gérés, gain de temps de classement]</i></td>
+<td>Cabinet virtuel interactif avec hiérarchie de documents et communication directe avec un NAS pour le stockage </td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/harounambaye/Pfsense"><b>Sécurité réseau pfSense</b></a><br><sub>Pare-feu & filtrage</sub></td>
 <td>pfSense · Filtrage réseau</td>
-<td>Règles de filtrage et surveillance du trafic déployées — <i>[à compléter : ex. nb de règles, trafic surveillé]</i></td>
+<td>Règles de filtrage et surveillance du trafic déployées </td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/harounambaye/ApacheStorm"><b>Traitement de flux temps réel</b></a><br><sub>Big Data</sub></td>
 <td>Apache Storm · MongoDB</td>
-<td>Architecture distribuée (spouts/bolts) pour un pipeline temps réel — <i>[à compléter : ex. volume/s de données traitées]</i></td>
+<td>Architecture distribuée (spouts/bolts) pour un pipeline temps réel</td>
 </tr>
 
 <tr>
 <td><b>Gestion des commandes Northwind</b><br><sub>Desktop & Web</sub></td>
 <td>WPF · ASP.NET · API REST Java · PostgreSQL</td>
-<td>Double implémentation avec authentification sécurisée jBCrypt — <i>[à compléter : ex. nb d'utilisateurs, temps de traitement des commandes]</i></td>
+<td>Double implémentation avec authentification sécurisée jBCrypt </td>
 </tr>
 
 </table>
