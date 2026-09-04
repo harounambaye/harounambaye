@@ -24,26 +24,26 @@
 
 <br>
 
-## 🎯 Ma mission
+## Ma mission
 
 > Je conçois des systèmes qui rendent la donnée exploitable — d'un tableau de bord décisionnel à un agent IA qui répond en langage naturel. Formé à la fois à l'ingénierie des systèmes d'information et à l'IA appliquée, je construis des ponts entre la donnée brute, l'analyse et la décision. Ma double casquette technique et pédagogique me permet aussi bien de développer que d'expliquer — un atout rare quand il s'agit de faire adopter une solution par une équipe.
 
 <br>
 
-## 📋 En un coup d'œil
+## En un coup d'œil
 
 <table width="100%">
-<tr><td width="30%"><b>🎓 Formation</b></td><td>M2 Business Intelligence · M1 Systèmes d'Information Répartis — UCAD Dakar</td></tr>
-<tr><td><b>🧠 En cours</b></td><td>Certification Intelligence Artificielle — Sonatel Academy / ODC</td></tr>
-<tr><td><b>📍 Localisation</b></td><td>Dakar, Sénégal (originaire de Tambacounda)</td></tr>
-<tr><td><b>💼 Disponibilité</b></td><td>Stage / premier poste — Business Intelligence · Data · IA</td></tr>
-<tr><td><b>👨‍🏫 Certification</b></td><td>Autorisation officielle d'enseigner dans les établissements privés du Sénégal</td></tr>
-<tr><td><b>🤝 Engagement</b></td><td>Trésorier du Club des Étudiants de la Section Informatique</td></tr>
+<tr><td width="30%"><b> Formation</b></td><td>M2 Business Intelligence · M1 Systèmes d'Information Répartis — UCAD Dakar</td></tr>
+<tr><td><b> En cours</b></td><td>Certification Intelligence Artificielle — Sonatel Academy / ODC</td></tr>
+<tr><td><b> Localisation</b></td><td>Dakar, Sénégal (originaire de Tambacounda)</td></tr>
+<tr><td><b> Disponibilité</b></td><td>Stage / premier poste — Business Intelligence · Data · IA</td></tr>
+<tr><td><b> Certification</b></td><td>Autorisation officielle d'enseigner dans les établissements privés du Sénégal</td></tr>
+<tr><td><b> Engagement</b></td><td>Trésorier du Club des Étudiants de la Section Informatique</td></tr>
 </table>
 
 <br>
 
-## 🧬 Stack technique
+## Stack technique
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,php,js,csharp,nodejs,postgres,mysql,mongodb,git,github,docker,linux,vscode" />
@@ -53,19 +53,19 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-**🤖 Intelligence Artificielle**
+**Intelligence Artificielle**
 <br><sub>Machine Learning · NLP · scikit-learn · pandas/numpy · modèles prédictifs</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**📊 Business Intelligence**
+**Business Intelligence**
 <br><sub>Power BI · ETL · tableaux de bord · analyse décisionnelle · UML · BPMN</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**🔐 Big Data & Sécurité**
+**Big Data & Sécurité**
 <br><sub>Apache Storm · pfSense · jBCrypt · API REST sécurisée</sub>
 
 </td>
@@ -74,7 +74,7 @@
 
 <br>
 
-## 📊 Focus actuel
+## Focus actuel
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -88,7 +88,7 @@
 
 <br>
 
-## 🚀 Projets phares
+## Projets phares
 
 <table width="100%">
 <tr><th align="left" width="24%">Projet</th><th align="left" width="28%">Stack</th><th align="left">Ce qu'il démontre</th></tr>
@@ -125,7 +125,7 @@
 
 </table>
 
-<sub>💡 Chaque ligne peut recevoir un résultat chiffré (volume traité, gain de temps, nb d'utilisateurs) — envoie-moi les données et je les intègre.</sub>
+<sub> Chaque ligne peut recevoir un résultat chiffré (volume traité, gain de temps, nb d'utilisateurs) — envoie-moi les données et je les intègre.</sub>
 
 <details>
 <summary><b>Voir les autres projets (5)</b></summary>
@@ -169,7 +169,7 @@
 
 <br>
 
-## 🗺️ Trajectoire
+## Trajectoire
 
 ```
 2025 ──● M1 Systèmes d'Information Répartis — UCAD
@@ -187,13 +187,13 @@
 
 <br>
 
-## 🤝 Pourquoi travailler avec moi
+## Pourquoi travailler avec moi
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top"><h3>🎓</h3><b>Double expertise</b><br><sub>Technique ET pédagogique — je construis et j'explique</sub></td>
-<td width="33%" align="center" valign="top"><h3>🧩</h3><b>Polyvalence</b><br><sub>De la donnée (BI/IA) à l'infrastructure (réseau/sécurité)</sub></td>
-<td width="33%" align="center" valign="top"><h3>🚀</h3><b>Orienté produit</b><br><sub>Des projets qui vont jusqu'au déploiement, pas juste des prototypes</sub></td>
+<td width="33%" align="center" valign="top"><h3></h3><b>Double expertise</b><br><sub>Technique ET pédagogique — je construis et j'explique</sub></td>
+<td width="33%" align="center" valign="top"><h3></h3><b>Polyvalence</b><br><sub>De la donnée (BI/IA) à l'infrastructure (réseau/sécurité)</sub></td>
+<td width="33%" align="center" valign="top"><h3></h3><b>Orienté produit</b><br><sub>Des projets qui vont jusqu'au déploiement, pas juste des prototypes</sub></td>
 </tr>
 </table>
 
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-### 📡 Parlons-en
+### Parlons-en
 
 [![Email](https://img.shields.io/badge/Email-roonmbaye5%40gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roonmbaye5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harouna%20Mbaye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harouna-mbaye-088926239/)
