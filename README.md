@@ -94,7 +94,7 @@
 <tr><th align="left" width="24%">Projet</th><th align="left" width="28%">Stack</th><th align="left">Ce qu'il démontre</th></tr>
 
 <tr>
-<td><a href="https://esenguide-harouna.vercel.app/"><b>eSenGuide</b></a><br><sub>Assistant administratif IA</sub></td>
+<td><a href="https://esenguide.vercel.app/"><b>eSenGuide</b></a><br><sub>Assistant administratif IA</sub></td>
 <td><img src="https://img.shields.io/badge/-React-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/-FastAPI-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/-Groq-2c5364?style=flat-square"/></td>
 <td>Agent IA conversationnel guidant les citoyens sénégalais dans leurs démarches administratives (CNI, casier judiciaire…) — de l'idée à un produit déployé</td>
 </tr>
