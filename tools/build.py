@@ -60,7 +60,7 @@ LAMP_CSS = ('.on{animation:on 2.4s .4s both;}'
 # ---------------------------------------------------------------- HERO
 def hero():
     h = 500
-    s = Svg(W, h, "Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en IA. Dakar, Sénégal.")
+    s = Svg(W, h, "Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en IA. Tambacounda et Dakar, Sénégal.")
     brass_defs(s)
     s.defs.append('<radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="955" cy="150" r="560">'
                   '<stop offset="0" stop-color="rgb(255,200,130)" stop-opacity=".30"/>'
@@ -77,7 +77,7 @@ def hero():
           '</g>')
     x = 72
     s.add(f'<g class="up"{d(.1)}><line x1="{x}" y1="99" x2="{x+30}" y2="99" stroke="{BRASS}" stroke-width="1.2"/>'
-          + s.text(x + 44, 104, 'PORTFOLIO — DAKAR, SÉNÉGAL', 'M', 14, BRASS, ls=3.5) + '</g>')
+          + s.text(x + 44, 104, 'PORTFOLIO — TAMBACOUNDA · DAKAR', 'M', 14, BRASS, ls=3.5) + '</g>')
     s.add(f'<g class="up"{d(.2)}>' + s.text(x - 4, 232, 'Harouna', 'S', 128, CREAM, ls=-3) + '</g>')
     s.add(f'<g class="up"{d(.3)}>' + s.text(x + 6, 350, 'MBAYE', 'SI', 128, 'url(#brass)', ls=-1) + '</g>')
     s.add(f'<g class="up"{d(.45)}>' + s.text(x, 412, 'Data Scientist & BI Analyst', 'N7', 30, CREAM, ls=-.4) + '</g>')
@@ -450,6 +450,7 @@ STACK = [
     ('Data, IA & BI', ['Python', 'Pandas', 'NumPy', 'scikit-learn', 'Streamlit', 'Machine Learning', 'Deep Learning', 'NLP', 'LLM', 'IA générative', 'Excel avancé (Power Query, Power Pivot)'], 5),
     ('Microsoft Fabric & Cloud Data', ['Microsoft Fabric', 'Power BI', 'Data Factory', 'Lakehouse', 'Data Warehouse', 'ETL / ELT'], 2),
     ('Bases de données', ['SQL', 'PostgreSQL', 'MySQL', 'SQL Server', 'Oracle', 'MongoDB', 'Modélisation de données'], 1),
+    ('Outils de collecte numérique', ['ODK', 'KoboToolbox', 'CSPro', 'Google Forms'], 2),
     ('Développement & API', ['Node.js', 'API REST', 'PHP', 'Java JEE', 'JavaScript', 'HTML / CSS'], 2),
     ('DevOps & Outils', ['Docker', 'Git', 'GitHub', 'GitLab', 'Linux'], 2),
     ('Conception & Collaboration', ['BPMN', 'UML', 'Figma', 'Trello'], 0),
@@ -489,7 +490,7 @@ def stack():
 # ---------------------------------------------------------------- CONTACT
 def footer():
     h = 330
-    s = Svg(W, h, 'Parlons données — roonmbaye5@gmail.com — Dakar, Sénégal')
+    s = Svg(W, h, 'Parlons données — roonmbaye5@gmail.com — Tambacounda et Dakar, Sénégal')
     brass_defs(s)
     s.defs.append('<radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="990" cy="120" r="460">'
                   '<stop offset="0" stop-color="rgb(255,200,130)" stop-opacity=".26"/><stop offset=".45" stop-color="rgb(255,200,130)" stop-opacity=".06"/>'
@@ -503,7 +504,7 @@ def footer():
     s.add(f'<g class="up"{d(.2)}>' + s.text(60, 186, 'Parlons', 'S', 104, CREAM, ls=-2)
           + s.text(x2, 186, 'données.', 'SI', 104, 'url(#brass)', ls=-2) + '</g>')
     s.add(f'<g class="up"{d(.35)}>' + icon('mail', 64, 222, 22, BRASS3) + s.text(98, 241, 'roonmbaye5@gmail.com', 'N7', 22, CREAM) + '</g>')
-    s.add(f'<g class="up"{d(.45)}>' + s.text(64, 282, 'Dakar, Sénégal · harouna-mbaye.netlify.app', 'N5', 16, MUTED) + '</g>')
+    s.add(f'<g class="up"{d(.45)}>' + s.text(64, 282, 'Tambacounda · Dakar, Sénégal · harouna-mbaye.netlify.app', 'N5', 16, MUTED) + '</g>')
     border(s, W, h)
     return s
 

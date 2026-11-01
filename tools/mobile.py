@@ -41,7 +41,7 @@ def m_header(num, eyebrow, plain, italic, theme, width=760, size=54):
 
 def m_hero():
     h = 600
-    s = Svg(MW, h, "Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en IA. Dakar, Sénégal.")
+    s = Svg(MW, h, "Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en IA. Tambacounda et Dakar, Sénégal.")
     brass_defs(s)
     s.defs.append('<radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="345" cy="100" r="380">'
                   '<stop offset="0" stop-color="rgb(255,200,130)" stop-opacity=".32"/>'
@@ -53,7 +53,7 @@ def m_hero():
     s.add('<g clip-path="url(#card)">', f'<rect class="on" width="{MW}" height="{h}" fill="{ROOM_ON}"/>',
           f'<rect class="on" width="{MW}" height="{h}" fill="url(#halo)"/>', lamp(s, 262, 22, .66), '</g>')
     s.add(f'<g class="up"{d(.1)}><line x1="{P}" y1="55" x2="{P+22}" y2="55" stroke="{BRASS}" stroke-width="1.2"/>'
-          + s.text(P + 32, 60, 'DAKAR · SÉNÉGAL', 'M', 12, BRASS, ls=3) + '</g>')
+          + s.text(P + 32, 60, 'TAMBACOUNDA · DAKAR', 'M', 12, BRASS, ls=3) + '</g>')
     s.add(f'<g class="up"{d(.2)}>' + s.text(P - 3, 330, 'Harouna', 'S', 90, CREAM, ls=-2) + '</g>')
     s.add(f'<g class="up"{d(.3)}>' + s.text(P + 3, 414, 'MBAYE', 'SI', 90, 'url(#brass)', ls=-1) + '</g>')
     s.add(f'<g class="up"{d(.45)}>' + s.text(P, 462, 'Data Scientist & BI Analyst', 'N7', 23, CREAM, ls=-.3) + '</g>')
@@ -229,7 +229,7 @@ def m_stack():
 
 def m_footer():
     h = 390
-    s = Svg(MW, h, 'Parlons données — roonmbaye5@gmail.com — Dakar, Sénégal')
+    s = Svg(MW, h, 'Parlons données — roonmbaye5@gmail.com — Tambacounda et Dakar, Sénégal')
     brass_defs(s)
     s.defs.append('<radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="370" cy="70" r="320">'
                   '<stop offset="0" stop-color="rgb(255,200,130)" stop-opacity=".28"/><stop offset=".5" stop-color="rgb(255,200,130)" stop-opacity=".06"/>'
@@ -242,7 +242,7 @@ def m_footer():
     s.add(f'<g class="up"{d(.2)}>' + s.text(P - 3, 196, 'Parlons', 'S', 80, CREAM, ls=-2)
           + s.text(P - 3, 270, 'données.', 'SI', 80, 'url(#brass)', ls=-2) + '</g>')
     s.add(f'<g class="up"{d(.35)}>' + icon('mail', P, 302, 20, BRASS3) + s.text(P + 30, 319, 'roonmbaye5@gmail.com', 'N7', 19, CREAM) + '</g>')
-    s.add(f'<g class="up"{d(.45)}>' + s.text(P, 352, 'Dakar, Sénégal', 'N5', 15, MUTED) + '</g>')
+    s.add(f'<g class="up"{d(.45)}>' + s.text(P, 352, 'Tambacounda · Dakar, Sénégal', 'N5', 15, MUTED) + '</g>')
     border(s, MW, h)
     return s
 

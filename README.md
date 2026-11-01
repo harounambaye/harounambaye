@@ -4,7 +4,7 @@
 <a href="https://harouna-mbaye.netlify.app">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/hero-m.svg" />
-    <img src="assets/hero.svg" width="100%" alt="Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en Intelligence Artificielle (Machine Learning, Deep Learning, XAI). Dakar, Sénégal. Ouvert à un poste en Data, BI ou IA." />
+    <img src="assets/hero.svg" width="100%" alt="Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en Intelligence Artificielle (Machine Learning, Deep Learning, XAI). Tambacounda et Dakar, Sénégal. Ouvert à un poste en Data, BI ou IA." />
   </picture>
 </a>
 
@@ -19,7 +19,7 @@
 
 > **Data Scientist & BI Analyst** spécialisé en Intelligence Artificielle, je conçois des solutions data **de l'analyse jusqu'à leur intégration** dans des applications et environnements opérationnels.
 > Mon mémoire de Master 2 porte sur l'**Explainable AI** appliquée à la détection d'anomalies en streaming.
-> Basé à Dakar, je cherche un **poste en Data Science, Business Intelligence ou IA**.
+> Basé entre Tambacounda (domicile) et Dakar, je cherche un **poste en Data Science, Business Intelligence ou IA**.
 
 <br/>
 
@@ -155,7 +155,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/stack-m.svg" />
-  <img src="assets/stack.svg" width="100%" alt="Compétences. Data, IA et BI : Python, Pandas, NumPy, scikit-learn, Streamlit, Machine Learning, Deep Learning, NLP, LLM, IA générative, Excel avancé. Microsoft Fabric et Cloud Data : Microsoft Fabric, Power BI, Data Factory, Lakehouse, Data Warehouse, ETL/ELT. Bases de données : SQL, PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, modélisation. Développement et API : Node.js, API REST, PHP, Java JEE, JavaScript, HTML/CSS. DevOps : Docker, Git, GitHub, GitLab, Linux. Conception : BPMN, UML, Figma, Trello." />
+  <img src="assets/stack.svg" width="100%" alt="Compétences. Data, IA et BI : Python, Pandas, NumPy, scikit-learn, Streamlit, Machine Learning, Deep Learning, NLP, LLM, IA générative, Excel avancé. Microsoft Fabric et Cloud Data : Microsoft Fabric, Power BI, Data Factory, Lakehouse, Data Warehouse, ETL/ELT. Bases de données : SQL, PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, modélisation. Outils de collecte numérique : ODK, KoboToolbox, CSPro, Google Forms. Développement et API : Node.js, API REST, PHP, Java JEE, JavaScript, HTML/CSS. DevOps : Docker, Git, GitHub, GitLab, Linux. Conception : BPMN, UML, Figma, Trello." />
 </picture>
 
 <p align="center"><sub>Français (courant) · Pulaar (courant) · Anglais (intermédiaire, documentation technique) · Autorisation officielle d'enseigner dans les établissements privés du Sénégal</sub></p>
@@ -165,7 +165,7 @@
 <a href="mailto:roonmbaye5@gmail.com">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/footer-m.svg" />
-    <img src="assets/footer.svg" width="100%" alt="Parlons données. Email : roonmbaye5@gmail.com — Dakar, Sénégal — harouna-mbaye.netlify.app" />
+    <img src="assets/footer.svg" width="100%" alt="Parlons données. Email : roonmbaye5@gmail.com — Tambacounda et Dakar, Sénégal — harouna-mbaye.netlify.app" />
   </picture>
 </a>
 
