@@ -4,7 +4,11 @@
 <a href="https://harouna-mbaye.netlify.app">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/hero-m.svg" />
+<<<<<<< HEAD
     <img src="assets/hero.svg" width="100%" alt="Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en Intelligence Artificielle (Machine Learning, Deep Learning, XAI). Tambacounda et Dakar, Sénégal. Ouvert à un poste en Data, BI ou IA." />
+=======
+    <img src="assets/hero.svg" width="100%" alt="Harouna MBAYE — Data Scientist & BI Analyst, spécialisé en Intelligence Artificielle (Machine Learning, Deep Learning, XAI). Tambacounda, Sénégal. Ouvert à un poste en Data, BI ou IA." />
+>>>>>>> c2b6e50bddbc851ae466da6aaa72d7a5d86f428c
   </picture>
 </a>
 
@@ -19,7 +23,11 @@
 
 > **Data Scientist & BI Analyst** spécialisé en Intelligence Artificielle, je conçois des solutions data **de l'analyse jusqu'à leur intégration** dans des applications et environnements opérationnels.
 > Mon mémoire de Master 2 porte sur l'**Explainable AI** appliquée à la détection d'anomalies en streaming.
+<<<<<<< HEAD
 > Basé entre Tambacounda (domicile) et Dakar, je cherche un **poste en Data Science, Business Intelligence ou IA**.
+=======
+> Basé à Tambacounda et à Dakar, je cherche un **poste en Data Science, Business Intelligence ou IA**.
+>>>>>>> c2b6e50bddbc851ae466da6aaa72d7a5d86f428c
 
 <br/>
 
@@ -165,7 +173,11 @@
 <a href="mailto:roonmbaye5@gmail.com">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/footer-m.svg" />
+<<<<<<< HEAD
     <img src="assets/footer.svg" width="100%" alt="Parlons données. Email : roonmbaye5@gmail.com — Tambacounda et Dakar, Sénégal — harouna-mbaye.netlify.app" />
+=======
+    <img src="assets/footer.svg" width="100%" alt="Parlons données. Email : roonmbaye5@gmail.com — Tambacounda, Dakar, Sénégal — harouna-mbaye.netlify.app" />
+>>>>>>> c2b6e50bddbc851ae466da6aaa72d7a5d86f428c
   </picture>
 </a>
 
