@@ -451,7 +451,8 @@ STACK = [
     ('Microsoft Fabric & Cloud Data', ['Microsoft Fabric', 'Power BI', 'Data Factory', 'Lakehouse', 'Data Warehouse', 'ETL / ELT'], 2),
     ('Bases de données', ['SQL', 'PostgreSQL', 'MySQL', 'SQL Server', 'Oracle', 'MongoDB', 'Modélisation de données'], 1),
     ('Outils de collecte numérique', ['ODK', 'KoboToolbox', 'CSPro', 'Google Forms'], 2),
-    ('Développement & API', ['Node.js', 'API REST', 'PHP', 'Java JEE', 'JavaScript', 'HTML / CSS'], 2),
+    ('Développement & API', ['Node.js', 'API REST', 'PHP', 'Java JEE', 'C / C++', 'JavaScript', 'HTML / CSS'], 2),
+    ('Réseaux, sécurité & maintenance', ['pfSense (pare-feu, filtrage)', 'Sécurité réseau', "Codes correcteurs d'erreurs (Hamming, codes cycliques)", 'Maintenance informatique'], 2),
     ('DevOps & Outils', ['Docker', 'Git', 'GitHub', 'GitLab', 'Linux'], 2),
     ('Conception & Collaboration', ['BPMN', 'UML', 'Figma', 'Trello'], 0),
 ]

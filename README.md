@@ -118,7 +118,8 @@
 | [Gestion commerciale](https://github.com/harounambaye/GestionCommercialeJEE) | Stocks, produits, employés et salaires ; architecture multicouche | Java EE · EJB · PrimeFaces |
 | Gestion des commandes Northwind | Double implémentation desktop / web, authentification via une API REST Java | WPF · ASP.NET · PostgreSQL · jBCrypt |
 | [GestacheHM](https://github.com/harounambaye/GestacheHM) | Application mobile de gestion des tâches | Flutter · Dart |
-| [Sécurité réseau pfSense](https://github.com/harounambaye/Pfsense) | Pare-feu : filtrage, gestion des flux, surveillance du trafic | pfSense |
+| [Sécurité réseau avec pfSense](https://github.com/harounambaye/Pfsense) | Master 1 — mise en place d'un pare-feu pfSense pour sécuriser un réseau : configuration et règles de filtrage | pfSense · Sécurité réseau |
+| Code de Hamming & code cyclique | Licence 2 — codes de détection et de correction d'erreurs dans la transmission de données | Codes correcteurs d'erreurs |
 
 </details>
 
@@ -155,7 +156,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/stack-m.svg" />
-  <img src="assets/stack.svg" width="100%" alt="Compétences. Data, IA et BI : Python, Pandas, NumPy, scikit-learn, Streamlit, Machine Learning, Deep Learning, NLP, LLM, IA générative, Excel avancé. Microsoft Fabric et Cloud Data : Microsoft Fabric, Power BI, Data Factory, Lakehouse, Data Warehouse, ETL/ELT. Bases de données : SQL, PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, modélisation. Outils de collecte numérique : ODK, KoboToolbox, CSPro, Google Forms. Développement et API : Node.js, API REST, PHP, Java JEE, JavaScript, HTML/CSS. DevOps : Docker, Git, GitHub, GitLab, Linux. Conception : BPMN, UML, Figma, Trello." />
+  <img src="assets/stack.svg" width="100%" alt="Compétences. Data, IA et BI : Python, Pandas, NumPy, scikit-learn, Streamlit, Machine Learning, Deep Learning, NLP, LLM, IA générative, Excel avancé. Microsoft Fabric et Cloud Data : Microsoft Fabric, Power BI, Data Factory, Lakehouse, Data Warehouse, ETL/ELT. Bases de données : SQL, PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, modélisation. Outils de collecte numérique : ODK, KoboToolbox, CSPro, Google Forms. Développement et API : Node.js, API REST, PHP, Java JEE, C/C++, JavaScript, HTML/CSS. Réseaux, sécurité et maintenance : pfSense (pare-feu, filtrage), sécurité réseau, codes correcteurs d'erreurs (Hamming, codes cycliques), maintenance informatique. DevOps : Docker, Git, GitHub, GitLab, Linux. Conception : BPMN, UML, Figma, Trello." />
 </picture>
 
 <p align="center"><sub>Français (courant) · Pulaar (courant) · Anglais (intermédiaire, documentation technique) · Autorisation officielle d'enseigner dans les établissements privés du Sénégal</sub></p>
