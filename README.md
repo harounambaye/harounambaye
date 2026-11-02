@@ -119,7 +119,7 @@
 | Gestion des commandes Northwind | Double implémentation desktop / web, authentification via une API REST Java | WPF · ASP.NET · PostgreSQL · jBCrypt |
 | [GestacheHM](https://github.com/harounambaye/GestacheHM) | Application mobile de gestion des tâches | Flutter · Dart |
 | [Sécurité réseau avec pfSense](https://github.com/harounambaye/Pfsense) | Master 1 — mise en place d'un pare-feu pfSense pour sécuriser un réseau : configuration et règles de filtrage | pfSense · Sécurité réseau |
-| Code de Hamming & code cyclique | Licence 2 — codes de détection et de correction d'erreurs dans la transmission de données | Codes correcteurs d'erreurs |
+| [Code de Hamming & code cyclique](https://harouna-mbaye.netlify.app/assets/docs/rapport-code-hamming-code-cyclique.pdf) (rapport PDF) | Licence 2 — codes de détection et de correction d'erreurs dans la transmission de données | Codes correcteurs d'erreurs |
 
 </details>
 
